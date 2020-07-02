@@ -5,28 +5,7 @@ const STREAMS = [
         token: '1',
         url: 'https://www.dropbox.com/s/78phn5jhofig03n/Alan%20Walker%20-%20Faded.mp3?raw=1',
         metadata: {
-            title: 'Alan Walker - Faded',
-            subtitle: 'A subtitle for stream one',
-            art: {
-                sources: [
-                    {
-                        contentDescription: 'example image',
-                        url: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/audiostream-starter-512x512.png',
-                        widthPixels: 512,
-                        heightPixels: 512,
-                    },
-                ],
-            },
-            backgroundImage: {
-                sources: [
-                    {
-                        contentDescription: 'example image',
-                        url: 'https://s3.amazonaws.com/cdn.dabblelab.com/img/wayfarer-on-beach-1200x800.png',
-                        widthPixels: 1200,
-                        heightPixels: 800,
-                    },
-                ],
-            },
+            title: 'Alan Walker - Faded'
         },
     },
 ];
